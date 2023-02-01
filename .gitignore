@@ -1,0 +1,23 @@
+# Ignore everything 
+/*
+
+# But not these files
+!.gitignore
+
+!cava/ 
+
+!compiz-1/
+
+!kitty/
+
+!miniplayer/
+
+!ncmpcpp/
+
+!neofetch/
+
+!picom
+
+!synapse/
+
+!Thunar/
