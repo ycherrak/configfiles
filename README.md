@@ -9,6 +9,9 @@ conf files inside the .config folder on linux rig
 #### Icon Theme
 [Gruvbox Plus Icon Pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack)
 
+#### Wallpaper
+[here](https://i.imgur.com/XgBCCoI.jpeg)
+
 # Final result
 
 ![screenshot](https://user-images.githubusercontent.com/56108546/216192787-f99acbcf-1fd9-45af-b10a-407cc22231ce.jpg)
