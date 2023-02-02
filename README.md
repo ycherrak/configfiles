@@ -26,9 +26,9 @@ It's a kitty script that includes ncmpcpp, cava and miniplayer, the script is th
 ```bash
 #!/bin/bash
 kitty @ launch ncmpcpp
-kitty @ launch ~/.local/bin/lyrics
+kitty @ launch ~/.local/bin/lyrics # ncmpcpp that points to the lyrics conf
 kitty @ launch cava
-kitty @ launch /home/yanice/.pyenv/versions/3.10.7/bin/miniplayer
+kitty @ launch $HOME/.pyenv/versions/3.10.7/bin/miniplayer
 ```
 
 #### Panel
