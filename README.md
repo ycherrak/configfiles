@@ -14,6 +14,7 @@ conf files inside the .config folder on linux rig
 
 #### Fonts
 Google Sans Bold
+
 JetbrainsMono Nerd Bold
 
 # Final result
